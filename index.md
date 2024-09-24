@@ -8,7 +8,7 @@
 ## this is octocat half octopus fully chad cat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-'''javascript
-var meep = "hello ma name meep";
-'''
+```javascript
+var mVar = "Hello, world!";
+```
 
