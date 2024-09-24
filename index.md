@@ -5,3 +5,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ## made a h1 and h2 and h6 to index
+## this is octocat half octopus fully chad cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
